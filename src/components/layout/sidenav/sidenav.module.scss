@@ -1,0 +1,48 @@
+.menu {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  z-index: 5;
+  padding-top: 70px;
+  height: calc(100% - 70px);
+  transition: border-radius 300ms;
+}
+
+.mainmenu {
+  border-radius: 0 0.75rem 0.75rem 0;
+  height: calc(100% - 70px);
+  width: 230px;
+  background: white;
+  z-index: 3;
+  position: fixed;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  left: 0;
+}
+
+.list {
+  margin-left: 30px;
+  margin-bottom: 0;
+  position: relative;
+  list-style: none;
+}
+
+.alink:active {
+  color: #008ecc;
+}
+
+.alink:hover {
+  color: #008ecc;
+}
+
+.alink {
+  font-size: 13px;
+  display: block;
+  padding: 8px 0;
+  margin-bottom: 10px;
+  text-decoration: none;
+  background-color: transparent;
+  outline: initial !important;
+  cursor: pointer;
+  color: #3a3a3a;
+}
