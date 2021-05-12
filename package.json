@@ -22,7 +22,7 @@
     "apollo-server-express": "^2.15.1",
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "express": "^4.17.1",
     "graphql": "^15.3.0",
     "graphql-tag": "^2.10.4",
