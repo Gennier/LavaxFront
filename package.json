@@ -30,7 +30,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "material-ui-chip-input": "^1.1.0",
     "mongoose": "^5.9.24",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "react": "^16.13.1",
     "react-apollo": "^3.1.5",
     "react-chartjs-2": "^2.9.0",
